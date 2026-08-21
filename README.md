@@ -28,15 +28,6 @@ Trabalho na interseção entre **Tecnologia**, **Educação** e **Gestão de Pro
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karine-sousa&show_icons=true&theme=dracula" alt="Estatísticas de Karine Sousa" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karine-sousa&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="175"/>
-</p>
-
----
-
 ### 📌 Áreas de Atuação e Interesses
 
 - 📚 **Tecnologia Educacional (EdTech):** Metodologias ativas, materiais instrucionais acessíveis e avaliação da aprendizagem de programação.

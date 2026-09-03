@@ -1,66 +1,181 @@
-https://img.shields.io/badge/Technical-Writing-blue
-https://img.shields.io/badge/Documentation-Specialist-green
-https://img.shields.io/badge/Knowledge-Management-orange
-https://img.shields.io/badge/Education-Tech-purple
+# 📚 Portfólio de Technical Writing
 
-# Portfólio de Technical Writing
+![Technical Writing](https://img.shields.io/badge/Technical_Wlue?style=for-the-badge
+![Documentação Técnica](https://img.shields.io/badgeeen?style=for-the-badge
+![Knowledge Management](https://img.shields.io/badge/Knowledgeange?style=for-the-badge
+![Educação em Tecnologia](https://img.shields.io-purple?style=for-the-badge
+![Markdown](https://img.shields.io/badge/Markdown-Avançado-blueviolethe-badge
+![GitHub](https://img.shields.io/bb-Portfólio-black?style=for-the-badge
 
-Olá! Sou Karine Sousa.
+## 👋 Sobre Mim
 
-Este repositório reúne projetos de documentação técnica, gestão do conhecimento, tecnologia educacional e comunicação técnica.
+Olá! Sou **Karine Heloise Felix de Sousa**, profissional com experiência em **Educação, Tecnologia, Gestão do Conhecimento e Produção de Conteúdo Técnico**.
 
-## Sobre Mim
+Minha atuação combina conhecimentos pedagógicos e tecnológicos para transformar informações complexas em conteúdos claros, organizados e acessíveis.
 
-Profissional da área de Educação e Tecnologia com experiência em:
-
-- Ensino Superior
-- Mediação Educacional
-- Produção de Conteúdo Técnico
-- Gestão do Conhecimento
-- Documentação de Processos
-- Tecnologias Educacionais
-
-Meu objetivo é transformar informações complexas em conteúdos claros, organizados e acessíveis.
-
-## Competências
+Tenho interesse especial em:
 
 - Technical Writing
 - Documentação Técnica
 - Gestão do Conhecimento
 - Documentação de Processos
 - APIs REST
-- SQL e SQLite
-- Design Instrucional
 - Educação em Tecnologia
+- Design Instrucional
+- Treinamento e Capacitação
 
-## Ferramentas
+---
 
-- GitHub
+## 🎯 Objetivo deste Portfólio
+
+Este repositório reúne projetos, modelos e materiais desenvolvidos para demonstrar competências em:
+
+- Escrita Técnica
+- Arquitetura da Informação
+- Documentação de Sistemas
+- Bases de Conhecimento
+- Guias do Usuário
+- Processos e Procedimentos
+- Conteúdo Educacional
+- Comunicação Técnica
+
+---
+
+## 🛠️ Competências
+
+### Documentação Técnica
+
+- Manuais do Usuário
+- Documentação de Sistemas
+- Procedimentos Operacionais
+- FAQs
+- Artigos de Base de Conhecimento
+- Documentação de Processos
+
+### Escrita Técnica
+
+- Technical Writing
+- Organização da Informação
+- Estruturação de Conteúdo
+- Padronização Documental
+- Revisão Técnica
+
+### Tecnologia
+
+- SQL
+- SQLite
 - Git
+- GitHub
 - Markdown
-- VS Code
+- APIs REST
+- JSON
 - OpenAPI
 - Swagger
-- Jira
-- Confluence
-- SQL
+
+### Educação
+
+- Design Instrucional
+- Mediação Educacional
+- Produção de Material Didático
+- Tecnologias Educacionais
+- Ensino Superior
+
+---
+
+## 🚀 Projetos
+
+### 📘 Guia Completo de SQLite
+
+Documentação técnica voltada para iniciantes que desejam aprender SQLite.
+
+**Conteúdo:**
+
+- Instalação
+- Criação de Banco de Dados
+- Consultas SQL
+- Relacionamentos
+- Boas Práticas
+- Glossário
+
+➡️ Status: Em desenvolvimento
+
+---
+
+### 🏢 Portal de Onboarding para Desenvolvedores
+
+Projeto de documentação corporativa para integração de novos colaboradores.
+
+**Conteúdo:**
+
+- Boas-vindas
+- Configuração de Ambiente
+- Git e GitHub
+- Fluxo de Trabalho
+- FAQ
+
+➡️ Status: Planejado
+
+---
+
+### 🔌 Documentação de APIs REST
+
+Projeto baseado nas melhores práticas de documentação técnica para APIs.
+
+**Conteúdo:**
+
+- Endpoints
+- Métodos HTTP
+- Requests
+- Responses
+- Tratamento de Erros
+- OpenAPI
+
+➡️ Status: Planejado
+
+---
+
+### 🧩 Troubleshooting Handbook
+
+Base de conhecimento voltada para resolução de problemas técnicos comuns.
+
+**Categorias:**
+
+- VS Code
+- Git
+- SQLite
+- Windows
 - Microsoft Teams
 
-## Projetos
+➡️ Status: Planejado
 
-### Guia Completo de SQLite
-Documentação técnica para iniciantes em banco de dados.
+---
 
-### Portal de Onboarding
-Documentação corporativa para integração de novos colaboradores.
+## 📂 Estrutura do Repositório
 
-### Documentação de APIs
-Exemplo de documentação técnica baseada em padrões do mercado.
-
-### Handbook de Suporte Técnico
-Base de conhecimento com problemas frequentes e soluções.
-
-## Contato
-
-LinkedIn:
-www.linkedin.com/in/karine-sousa
+```text
+technical-writing-portfolio
+│
+├── README.md
+│
+├── sobre/
+│   └── perfil-profissional.md
+│
+├── competencias/
+│   └── habilidades.md
+│
+├── projetos/
+│   ├── guia-sqlite.md
+│   ├── portal-onboarding.md
+│   ├── documentacao-api.md
+│   └── handbook-suporte.md
+│
+├── modelos/
+│   ├── modelo-manual-usuario.md
+│   ├── modelo-release-notes.md
+│   └── modelo-base-conhecimento.md
+│
+├── artigos/
+│   └── README.md
+│
+└── certificacoes/
+    └── certificacoes.md

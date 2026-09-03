@@ -1,3 +1,8 @@
+https://img.shields.io/badge/Technical-Writing-blue
+https://img.shields.io/badge/Documentation-Specialist-green
+https://img.shields.io/badge/Knowledge-Management-orange
+https://img.shields.io/badge/Education-Tech-purple
+
 # Portfólio de Technical Writing
 
 Olá! Sou Karine Sousa.

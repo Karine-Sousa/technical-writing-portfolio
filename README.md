@@ -1,13 +1,6 @@
 # 📚 Portfólio de Technical Writing
 
-![Technical Writing](https://img.shields.io/badge/Technical_Wlue?style=for-the-badge
-![Documentação Técnica](https://img.shields.io/badgeeen?style=for-the-badge
-![Knowledge Management](https://img.shields.io/badge/Knowledgeange?style=for-the-badge
-![Educação em Tecnologia](https://img.shields.io-purple?style=for-the-badge
-![Markdown](https://img.shields.io/badge/Markdown-Avançado-blueviolethe-badge
-![GitHub](https://img.shields.io/bb-Portfólio-black?style=for-the-badge
-
-## 👋 Sobre Mim
+## Sobre Mim
 
 Olá! Sou **Karine Heloise Felix de Sousa**, profissional com experiência em **Educação, Tecnologia, Gestão do Conhecimento e Produção de Conteúdo Técnico**.
 
@@ -26,7 +19,7 @@ Tenho interesse especial em:
 
 ---
 
-## 🎯 Objetivo deste Portfólio
+## Objetivo deste Portfólio
 
 Este repositório reúne projetos, modelos e materiais desenvolvidos para demonstrar competências em:
 
@@ -41,7 +34,7 @@ Este repositório reúne projetos, modelos e materiais desenvolvidos para demons
 
 ---
 
-## 🛠️ Competências
+## Competências
 
 ### Documentação Técnica
 
@@ -82,9 +75,9 @@ Este repositório reúne projetos, modelos e materiais desenvolvidos para demons
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 📘 Guia Completo de SQLite
+### Guia Completo de SQLite
 
 Documentação técnica voltada para iniciantes que desejam aprender SQLite.
 
@@ -97,11 +90,11 @@ Documentação técnica voltada para iniciantes que desejam aprender SQLite.
 - Boas Práticas
 - Glossário
 
-➡️ Status: Em desenvolvimento
+Status: Em desenvolvimento
 
 ---
 
-### 🏢 Portal de Onboarding para Desenvolvedores
+### Portal de Onboarding para Desenvolvedores
 
 Projeto de documentação corporativa para integração de novos colaboradores.
 
@@ -113,11 +106,11 @@ Projeto de documentação corporativa para integração de novos colaboradores.
 - Fluxo de Trabalho
 - FAQ
 
-➡️ Status: Planejado
+Status: Planejado
 
 ---
 
-### 🔌 Documentação de APIs REST
+### Documentação de APIs REST
 
 Projeto baseado nas melhores práticas de documentação técnica para APIs.
 
@@ -130,11 +123,11 @@ Projeto baseado nas melhores práticas de documentação técnica para APIs.
 - Tratamento de Erros
 - OpenAPI
 
-➡️ Status: Planejado
+Status: Planejado
 
 ---
 
-### 🧩 Troubleshooting Handbook
+###Troubleshooting Handbook
 
 Base de conhecimento voltada para resolução de problemas técnicos comuns.
 
@@ -146,36 +139,7 @@ Base de conhecimento voltada para resolução de problemas técnicos comuns.
 - Windows
 - Microsoft Teams
 
-➡️ Status: Planejado
+Status: Planejado
 
----
-
-## 📂 Estrutura do Repositório
-
-```text
-technical-writing-portfolio
-│
-├── README.md
-│
-├── sobre/
-│   └── perfil-profissional.md
-│
-├── competencias/
-│   └── habilidades.md
-│
-├── projetos/
-│   ├── guia-sqlite.md
-│   ├── portal-onboarding.md
-│   ├── documentacao-api.md
-│   └── handbook-suporte.md
-│
-├── modelos/
-│   ├── modelo-manual-usuario.md
-│   ├── modelo-release-notes.md
-│   └── modelo-base-conhecimento.md
-│
-├── artigos/
-│   └── README.md
-│
-└── certificacoes/
-    └── certificacoes.md
+## Contato
+https://www.linkedin.com/in/karine-sousa/
